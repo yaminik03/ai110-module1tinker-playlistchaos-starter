@@ -7,6 +7,9 @@ This activity is your first chance to practice AI-assisted debugging on a codeba
 You do not need to understand everything at once. Approach the app as a curious investigator, work with an AI assistant to explain what you find, and make targeted improvements.
 
 ---
+## Reflection
+
+The main goal of this activity was learning how to figure out and explain a problem in the code before asking AI to fix it. Students will probably struggle most with finding the bug on their own since there isn’t an obvious error and they have to test the app to see what’s wrong. AI was helpful when it reviewed the code and pointed out logical issues, like the error logic in the search_songs function. However, AI can be misleading if you accept its suggestions without checking if they really match how the app should work. To guide a student without giving the answer, I would tell them to test the app like a real user and pay attention to what doesn’t work. Then, they should trace that issue back to the part of the code that controls it before asking AI more specific questions.
 
 ## How the code is organized
 
